@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+    <user>
+        <username>admin</username>
+        <password>Bombi</password>
+        <role>admin</role>
+    </user>
+    <user>
+        <username>student</username>
+        <password>tvz</password>
+        <role>user</role>
+    </user>
+    <user>
+        <username>zadnjidodankorisnik</username>
+        <password>tvz</password>
+        <role>user</role>
+    </user>
+    <user>
+        <username>novistudent</username>
+        <password>novipass</password>
+        <role>user</role>
+    </user>
+<user><username>mspoljaric</username><password>tvz</password><role>user</role></user><user><username>milica</username><password>tvz</password><role>user</role></user><user><username>marko</username><password>tvz</password><role>user</role></user><user><username>ime</username><password>tvz</password><role>user</role></user><user><username>Spirulina</username><password>123</password><role>user</role></user><user><username>macuhica</username><password>123</password><role>user</role></user><user><username>marica</username><password>123</password><role>user</role></user></users>

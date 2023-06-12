@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<records>
+    <!-- Ovdje će se dodavati zapisi o posudbi -->
+<record><book_id>Bajke</book_id><borrower>student</borrower><borrow_date>2023-06-09 16:58:11</borrow_date></record><record><book_id>Ponos i predrasude</book_id><borrower>ime</borrower><borrow_date>2023-06-09 16:59:30</borrow_date></record><record><book_id>War and Peace</book_id><borrower>mspoljaric</borrower><borrow_date>2023-06-12 09:23:59</borrow_date></record><record><book_id>The Lord of the Rings</book_id><borrower>macuhica</borrower><borrow_date>2023-06-12 09:24:49</borrow_date></record><record><book_id>Božanstvena komedija</book_id><borrower>marica</borrower><borrow_date>2023-06-12 09:31:58</borrow_date></record></records>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+    <book id="1">
+        <title>Svijet se raspada</title>
+        <author>Chinua Achebe</author>
+        <year>1958</year>
+        <status>available</status>
+        <borrower></borrower>
+    </book>
+    <book id="2">
+        <title>Bajke</title>
+        <author>Hans Christian Andersen</author>
+        <year>1835</year>
+        <status>available</status>
+        <borrower></borrower>
+    </book>
+    <book id="3">
+        <title>Božanstvena komedija</title>
+        <author>Dante Alighieri</author>
+        <year>1321</year>
+        <status>available</status>
+        <borrower></borrower>
+    </book>
+    <book id="4">
+        <title>Ponos i predrasude</title>
+        <author>Jane Austen</author>
+        <year>1813</year>
+        <status>available</status>
+        <borrower></borrower>
+    </book>
+    <book id="5">
+        <title>Otac Goriot</title>
+        <author>Honoré de Balzac</author>
+        <year>1835.</year>
+        <status>available</status>
+        <borrower></borrower>
+    </book>
+    <book id="6">
+        <title>1984</title>
+        <author>George Orwell</author>
+        <year>1949</year>
+        <status>available</status>
+        <borrower></borrower>
+    </book>
+    <book id="7">
+        <title>To Kill a Mockingbird</title>
+        <author>Harper Lee</author>
+        <year>1960</year>
+        <status>available</status>
+        <borrower></borrower>
+    </book>
+    <book id="8">
+        <title>The Great Gatsby</title>
+        <author>F. Scott Fitzgerald</author>
+        <year>1925</year>
+        <status>available</status>
+        <borrower></borrower>
+    </book>
+    <book id="9">
+        <title>War and Peace</title>
+        <author>Leo Tolstoy</author>
+        <year>1869</year>
+        <status>available</status>
+        <borrower></borrower>
+    </book>
+    <book id="10">
+        <title>The Lord of the Rings</title>
+        <author>J.R.R. Tolkien</author>
+        <year>1954-1955</year>
+        <status>available</status>
+        <borrower></borrower>
+    </book>
+    <book id="11">
+        <title>The Catcher in the Rye</title>
+        <author>J.D. Salinger</author>
+        <year>1951</year>
+        <status>available</status>
+        <borrower></borrower>
+    </book>
+    <book id="12">
+        <title>Moby-Dick</title>
+        <author>Herman Melville</author>
+        <year>1851</year>
+        <status>available</status>
+        <borrower></borrower>
+    </book>
+    <book id="13">
+        <title>The Hobbit</title>
+        <author>J.R.R. Tolkien</author>
+        <year>1937</year>
+        <status>available</status>
+        <borrower></borrower>
+    </book>
+    <book id="14">
+        <title>Alice's Adventures in Wonderland</title>
+        <author>Lewis Carroll</author>
+        <year>1865</year>
+        <status>available</status>
+        <borrower></borrower>
+    </book>
+    <book id="15">
+        <title>The Odyssey</title>
+        <author>Homer</author>
+        <year>8th century BCE</year>
+        <status>available</status>
+        <borrower></borrower>
+    </book>
+    <book id="16">
+        <title>The Picture of Dorian Gray</title>
+        <author>Oscar Wilde</author>
+        <year>1890</year>
+        <status>available</status>
+        <borrower></borrower>
+    </book>
+    <book id="17">
+        <title>Frankenstein</title>
+        <author>Mary Shelley</author>
+        <year>1818</year>
+        <status>available</status>
+        <borrower></borrower>
+    </book>
+    <book id="18">
+        <title>Crime and Punishment</title>
+        <author>Fyodor Dostoevsky</author>
+        <year>1866</year>
+        <status>available</status>
+        <borrower></borrower>
+    </book>
+    <book id="19">
+        <title>The Adventures of Huckleberry Finn</title>
+        <author>Mark Twain</author>
+        <year>1884</year>
+        <status>available</status>
+        <borrower></borrower>
+    </book>
+    <book id="20">
+        <title>The Alchemist</title>
+        <author>Paulo Coelho</author>
+        <year>1988</year>
+        <status>available</status>
+        <borrower></borrower>
+    </book>
+</books>
